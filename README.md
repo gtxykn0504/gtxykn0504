@@ -6,7 +6,7 @@
 3. 信息技术札记：[札记](https://tech.kegongteng.cn/)
 4. 图库 ：[Plog](https://photo.kegongteng.cn/)
 ### 🕰️Organization or Project
-1. 中文博客列表导航：[zh-blogs](https://github.com/zh-blogs)
+1. 中文博客列表：[zh-blogs](https://github.com/zh-blogs)
 2. 灯塔计划：[Pharos Plan](https://kegongteng.cn/tag/pharos)
 3. Mint Studio：[Mintstd](https://www.mintstd.top/)
 ### 🎯Contact
