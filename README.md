@@ -8,7 +8,6 @@
 ### 🕰️Organization or Project
 1. 中文博客列表：[zh-blogs](https://github.com/zh-blogs)
 2. 灯塔计划：[Pharos Plan](https://kegongteng.cn/tag/pharos)
-3. Mint Studio：[Mintstd](https://www.mintstd.top/)
-4. 开往：[Travellings](https://github.com/travellings-link)
+3. 开往：[Travellings](https://github.com/travellings-link)
 ### 🎯Contact
 你可以通过邮件与我联系：[mail](mailto:i@kegongteng.cn)
