@@ -3,7 +3,6 @@
 ### 💻Websites
 1. 知识库： [Kegongteng](https://kegongteng.cn)
 2. 个人主页： [Zheary](https://zheary.com)
-3. 图库 ：[Plog](https://photo.kegongteng.cn/)
 ### 🕰️Organization or Project
 1. 中文博客列表：[zh-blogs](https://github.com/zh-blogs)
 2. 开往：[Travellings](https://github.com/travellings-link)
